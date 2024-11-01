@@ -3,5 +3,5 @@
 
 var="Best School"
 for i in [{1..10}];
-	do echo "$var"
+  do echo "$var"
 done
